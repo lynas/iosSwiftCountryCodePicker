@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Gloss (1.1.1)
+  - Phone-Country-Code-and-Flags (0.2.1)
+  - PhoneCountryCodePicker (0.2.0):
+    - Phone-Country-Code-and-Flags
+  - RxAlamofire (3.0.2):
+    - RxAlamofire/Core (= 3.0.2)
+  - RxAlamofire/Core (3.0.2):
+    - Alamofire (~> 4.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.1)
+
+DEPENDENCIES:
+  - Gloss
+  - PhoneCountryCodePicker
+  - RxAlamofire
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Gloss: 4a892694cba7387efa4102a51f86110651366b18
+  Phone-Country-Code-and-Flags: 19b303483d6e14091a1e3a404ec2aac8f08a985c
+  PhoneCountryCodePicker: 3d8a797562bbcd2309944e0b683eadaa824cacad
+  RxAlamofire: bc53604b29fd2d220cfaa490c736cc4500819f34
+  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+
+PODFILE CHECKSUM: 7cb267eefc9e80e59b032c97239d71cbd363f95a
+
+COCOAPODS: 1.1.1
